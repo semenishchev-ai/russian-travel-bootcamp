@@ -1,4 +1,4 @@
-.place__website {
+.website {
     display: flex;
     flex-direction: column;
     align-self: end;
@@ -7,7 +7,7 @@
 
 
 @media screen and (max-width: 767px) {
-    .place__website {
+    .website {
         width: 90%;
         justify-self: center;
     }
