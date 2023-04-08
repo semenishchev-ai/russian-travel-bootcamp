@@ -4,8 +4,7 @@
     grid-template-rows: 1fr 36vw;
     grid-template-areas: 
         "place__title place__website"
-        "place__image place__text"
-    ;
+        "place__image place__text";
     gap: 48px 40px;
     padding-bottom: 80px;
 }
@@ -40,8 +39,7 @@
             "place__title"
             "place__website"
             "place__image"
-            "place__text"
-        ;
+            "place__text";
         padding-bottom: 50px;
     }
 }
