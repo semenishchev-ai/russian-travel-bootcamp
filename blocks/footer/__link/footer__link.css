@@ -7,16 +7,21 @@
     line-height: 1.125;
     letter-spacing: 0em;
     text-align: left;
+    transition: opacity .4s ease-in;
 }
 
 .footer__link:last-of-type {
     padding: 0;
 }
 
+.footer__link:hover {
+    opacity: .8;
+}
+
 @media screen and (max-width: 767px) {
     .footer__link {
         padding-bottom: 32px;
-        font-size: 16px;
+        font-size: 24px;
         line-height: 1;
     }
 }
