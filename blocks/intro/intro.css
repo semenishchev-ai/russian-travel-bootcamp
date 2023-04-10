@@ -1,7 +1,6 @@
 .intro {
     color: #fff;
-    width: 690px;
-    min-height: 429px;
+    max-width: 690px;
     align-self: start;
     padding-left: calc((100% - 984px) / 2);
     padding-top: 92px;
@@ -16,7 +15,7 @@
 @media screen and (max-width: 1023px) {
     .intro {
         padding-left: calc((100% - 720px) / 2);
-        width: 720px;
+        max-width: 720px;
         padding-top: 88px;
     }
 }
@@ -24,7 +23,7 @@
 @media screen and (max-width: 767px) {
     .intro {
         padding-left: calc((100% - 288px) / 2);
-        width: 284px;
+        max-width: 284px;
         padding-top: 64px;
     }
 }

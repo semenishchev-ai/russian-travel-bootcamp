@@ -4,11 +4,6 @@
     background-image: url(../../images/__background.png);
     background-size: 100% auto;
     background-repeat: no-repeat;
-    color: #fff;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    position: relative;
 }
 
 @media screen and (max-width: 1023px) {
