@@ -13,3 +13,7 @@
 **Используемые технрологии**
 
 * Flex, grid, media запросы, структура Nested БЭМ. 
+
+**Ссылка на Github Pages**
+
+* (https://semenishchev-ai.github.io/russian-travel-bootcamp/) 
